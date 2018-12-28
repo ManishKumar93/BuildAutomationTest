@@ -6,9 +6,12 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
+        <Label Text="Test App for Build Automation" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
+
+        <Button x:Name="btnShowMessage" AutomationId="btnShowMessage" Text="Show Message"></Button>
+
     </StackLayout>
 
 </ContentPage>

@@ -12,6 +12,13 @@ namespace BuildTest
         public MainPage()
         {
             InitializeComponent();
+
+            btnShowMessage.Clicked += ButtonClickedAsync;
+        }
+
+        private async void ButtonClickedAsync(object sender, EventArgs e)
+        {
+            await DisplayAlert("", "Message", "Ok");
         }
     }
 }

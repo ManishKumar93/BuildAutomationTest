@@ -4,7 +4,6 @@ D:\BuildAutomationTest\BuildTest\BuildTest\BuildTest.Android\bin\Debug\com.manis
 D:\BuildAutomationTest\BuildTest\BuildTest\BuildTest.Android\bin\Debug\com.manish.BuildTest-Signed.apk
 D:\BuildAutomationTest\BuildTest\BuildTest\BuildTest.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
 D:\BuildAutomationTest\BuildTest\BuildTest\BuildTest.Android\obj\Debug\90\BuildTest.Android.nuget.stamp
-D:\BuildAutomationTest\BuildTest\BuildTest\BuildTest.Android\obj\Debug\90\BuildTest.Android.csprojAssemblyReference.cache
 D:\BuildAutomationTest\BuildTest\BuildTest\BuildTest.Android\obj\Debug\90\libraryimports.cache.stamp
 D:\BuildAutomationTest\BuildTest\BuildTest\BuildTest.Android\obj\Debug\90\res.flag
 D:\BuildAutomationTest\BuildTest\BuildTest\BuildTest.Android\obj\Debug\90\App.xaml.g.cs
@@ -33,6 +32,7 @@ D:\BuildAutomationTest\BuildTest\BuildTest\BuildTest.Android\obj\Debug\90\res\mi
 D:\BuildAutomationTest\BuildTest\BuildTest\BuildTest.Android\obj\Debug\90\R.cs.flag
 D:\BuildAutomationTest\BuildTest\BuildTest\BuildTest.Android\obj\Debug\90\R.txt
 D:\BuildAutomationTest\BuildTest\BuildTest\BuildTest.Android\obj\Debug\90\uploadflags.txt
+D:\BuildAutomationTest\BuildTest\BuildTest\BuildTest.Android\obj\Debug\90\BuildTest.Android.csprojAssemblyReference.cache
 D:\BuildAutomationTest\BuildTest\BuildTest\BuildTest.Android\bin\Debug\FormsViewGroup.pdb
 D:\BuildAutomationTest\BuildTest\BuildTest\BuildTest.Android\bin\Debug\Mono.Android.pdb
 D:\BuildAutomationTest\BuildTest\BuildTest\BuildTest.Android\bin\Debug\mscorlib.pdb
