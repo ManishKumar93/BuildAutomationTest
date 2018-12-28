@@ -18,7 +18,7 @@ namespace BuildTest
 
         private async void ButtonClickedAsync(object sender, EventArgs e)
         {
-            await DisplayAlert("", "Message", "Ok");
+            await DisplayAlert("Title", "Message", "Ok");
         }
     }
 }
